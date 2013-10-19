@@ -1,0 +1,13 @@
+{% include header.html %}
+<div class="w">
+  {% for image in page.images %}
+    <div class="r">
+      <div class="c-3-3">
+        <div class="w-photo">
+          <img class="photo-img" src="/img/portfolio/{{ image.name }}" />
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+{% include footer.html %}

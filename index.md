@@ -1,0 +1,8 @@
+---
+layout: index
+images:
+  - name: 9811042904_3ffe3d0c79_b.jpg
+  - name: 9792473475_1db93dcbee_c.jpg
+  - name: 9792540784_10279e4956_c.jpg
+---
+Hi. My name is James Brown and this is my photography business. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc auctor ultricies ligula lobortis condimentum. Etiam fermentum auctor tempor. Phasellus non mauris ac elit volutpat ullamcorper dignissim ac purus. Ut nec felis ac elit varius pulvinar. Phasellus iaculis vestibulum nunc. In quis erat nunc. Duis rutrum felis sed magna dictum vehicula. Quisque dui quam, ultricies vitae vulputate vel, tincidunt sit amet augue. Etiam ac lorem pretium, dictum sem sit amet, congue augue. Aliquam gravida purus ut magna condimentum commodo. Donec faucibus iaculis metus ac pharetra. Donec nec elementum justo. Proin a erat id tortor porttitor tristique. Donec faucibus iaculis metus ac pharetra. Donec nec elementum justo. Proin a erat id tortor porttitor tristique.

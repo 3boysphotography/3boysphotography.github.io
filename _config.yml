@@ -1,0 +1,8 @@
+# build config
+markdown: rdiscount 
+
+# change these
+title: 3 Boys Photography
+desc: 3 Boys Photography
+email: james@james.com
+phone: 123-456-7890
