@@ -10,11 +10,11 @@ $125 session - This includes my travel to an agreed upon outdoor location or you
 
 $150 minimum print order - This is the minimum print order for any portrait session. To give you an idea, here's the cost of some standard size prints:
 
-4x6 - $15
-5x7 - $20
-8x10 - $25
-11x14 - $50
-16x20 - $80
+4x6 - $15  
+5x7 - $20  
+8x10 - $25  
+11x14 - $50  
+16x20 - $80  
 
 There are also lots of gorgeous specialty items available - including fine art prints, gallery wrap canvases, coffee table art books, albums, and custom cards and announcements. 
 
