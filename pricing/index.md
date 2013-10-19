@@ -22,4 +22,4 @@ All products come from the highest quality professional photo labs.
 
 To book a portrait session or if you have any questions, please contact me at:   
 email: <james@3boysphotography.com></code>  
-phone: 717.357.7614.
+phone: 717.357.7614
