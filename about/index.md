@@ -12,7 +12,7 @@ My style is considered lifesytle family photography. I love capturing a family a
 
 I look forward to meeting you, photographing your lives, and capturing those moments you never want to forget.
 
---James Brown (yep - that's really my name)
+--James Brown
 
 
 
