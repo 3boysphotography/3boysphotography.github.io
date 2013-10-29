@@ -4,7 +4,7 @@ layout: pricing
 __________________________________________________________________________________________________________________________
 All portrait sessions are shot on location with natural light. The portrait session can be outside at an agreed upon location or inside the comfort of your home. I have some locations I like to use but if you have any recommendations for locations I’d be happy to consider them. For an outdoor session early morning light–just after sunrise–or late afternoon light–a couple of hours before sunset–is ideal. Most portrait sessions last around two hours. 
 
-###Pricing Information
+###Pricing
 
 $125 session - This includes my travel to an agreed upon outdoor location or your home, the portrait session, digital processing, and minor retouching. Prints or digital files are not included in this price. The full non-refundable session fee is required to book a portrait session.
 
