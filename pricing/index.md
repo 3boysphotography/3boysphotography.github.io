@@ -1,7 +1,6 @@
 ---
 layout: pricing
 ---
-__________________________________________________________________________________________________________________________
 All portrait sessions are shot on location with natural light. The portrait session can be outside at an agreed upon location or inside the comfort of your home. I have some locations I like to use but if you have any recommendations for locations I’d be happy to consider them. For an outdoor session early morning light–just after sunrise–or late afternoon light–a couple of hours before sunset–is ideal. Most portrait sessions last around two hours. 
 
 ###Pricing
@@ -20,4 +19,4 @@ There are also lots of gorgeous specialty items available - including fine art p
 
 All products come from the highest quality professional photo labs. 
 
-To book a portrait session or if you have any questions, please contact me at <james@3boysphotography.com></code> or 717.357.7614
+To book a portrait session or if you have any questions, please contact me at <james@3boysphotography.com></code> or 717-357-7614.

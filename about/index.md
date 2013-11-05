@@ -1,7 +1,9 @@
 ---
 layout: about
+title: About 3 Boys Photography
+desc: Located in Gettysburg, Pennsylvania and specializing in family and children's portraits.
+keywords: photograhy, Gettysburg, Pennsylvania, portraits
 ---
-__________________________________________________________________________________________________________________________
 3 Boys Photography is a portrait photography business located in Gettysburg, Pennsylvania that specializes in family and children's portraits.
 
 Many people ask me what's with the name - 3 Boys Photography? So here it goes. I'm the father of three amazing boys. They are the reason I picked up my first camera, and they provide me with incredible inspiration and happiness. I also have an amazing wife that was instrumental in providing me with three boys!
@@ -13,10 +15,3 @@ My style is considered lifesytle family photography. I love capturing a family a
 I look forward to meeting you, photographing your lives, and capturing those moments you never want to forget.
 
 --James Brown
-
-
-
-
-
-
-
