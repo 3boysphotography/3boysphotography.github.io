@@ -1,6 +1,7 @@
 ---
 layout: portfolio
 images:
+  - name: Larger.jpg
   - name: 8953524833_cce21b48c9_c.jpg
   - name: 8953525923_c88da63cc9_c.jpg
   - name: 9792472466_d6f60589a8_c.jpg
