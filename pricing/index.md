@@ -22,6 +22,8 @@ There are also lots of gorgeous specialty items available - including fine art p
 
 All products come from the highest quality professional photo labs. 
 
+###Contact
+
 If you'd like to schedule a portrait session or just want to chat, I'll be around.
 
 Mail: <james@3boysphotography.com>  
