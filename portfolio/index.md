@@ -1,5 +1,8 @@
 ---
 layout: portfolio
+title: About 3 Boys Photography
+desc: Located in Gettysburg, Pennsylvania and specializing in family and children's portraits.
+keywords: photography, Gettysburg, Pennsylvania, portraits, family, children
 images:
   - name: Larger.jpg
   - name: 8953524833_cce21b48c9_c.jpg

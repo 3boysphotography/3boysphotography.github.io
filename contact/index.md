@@ -1,7 +1,9 @@
 ---
 layout: contact
+title: About 3 Boys Photography
+desc: Located in Gettysburg, Pennsylvania and specializing in family and children's portraits.
+keywords: photography, Gettysburg, Pennsylvania, portraits, family, children
 ---
-To book a portrait session or if you have any questions, please contact me at james@3boysphotography.com or 717-357-7614.
 If you'd like to schedule a portrait session or just want to chat, I'll be around.
 
 ####Mail: james@3boysphotography.com
