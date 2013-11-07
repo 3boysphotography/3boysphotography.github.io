@@ -30,7 +30,7 @@ img {
 .w:after { clear: both; }
 
 .r {
-    margin: 0 0 20px;
+    margin: 0 0 10px;
     width: 100%;
     *zoom: 1;
 }
@@ -97,7 +97,7 @@ img {
   background-color: #ffffff;
   padding: 10px 10px 5px;
 }
-.photo-img { border-radius: 1px; }
+.photo-img { border-radius: 3px; }
 
 .footer {
   border-top: 1px solid #dddddd;
