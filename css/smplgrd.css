@@ -95,8 +95,6 @@ img {
 .content p:first-child { margin-top: 0; }
 .w-photo {
   background-color: #ffffff;
-  border-radius: 3px;
-  box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.15);
   padding: 10px 10px 5px;
 }
 .photo-img { border-radius: 3px; }
