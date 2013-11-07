@@ -24,5 +24,5 @@ All products come from the highest quality professional photo labs.
 
 If you'd like to schedule a portrait session or just want to chat, I'll be around.
 
-Mail: <james@3boysphotography.com>
+Mail: <james@3boysphotography.com>  
 Phone: 717.357.7614
