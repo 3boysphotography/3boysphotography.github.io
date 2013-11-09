@@ -93,11 +93,8 @@ img {
 }
 
 .content p:first-child { margin-top: 0; }
-.w-photo {
-  background-color: #ffffff;
-  padding: 10px 10px 5px;
-}
-.photo-img { border-radius: 3px; }
+.w-photo { margin: 0 0 10px 0; }
+.photo-img { border-radius: 1px; }
 
 .footer {
   border-top: 1px solid #dddddd;
@@ -123,9 +120,6 @@ img {
   .nav .btn {
     margin-left: 10px;
     margin-right: 0;
-  }
-  .w-photo {
-    padding: 20px 20px 15px;
   }
   .contact-info { text-align: right; }
 }
