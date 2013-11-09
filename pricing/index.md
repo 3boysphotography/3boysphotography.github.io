@@ -11,8 +11,7 @@ All portrait sessions are shot on location with natural light. The portrait sess
 $125 session - This includes my travel to an agreed upon outdoor location or your home, the portrait session, digital processing, and minor retouching. Prints or digital files are not included in this price. The full non-refundable session fee is required to book a portrait session.
 
 $150 minimum print order - This is the minimum print order for any portrait session. To give you an idea, here's the cost of some standard size prints:
-
-4x6 - $15  
+  
 5x7 - $20  
 8x10 - $25  
 11x14 - $50  
