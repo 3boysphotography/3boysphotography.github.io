@@ -13,5 +13,6 @@ images:
   - name: gettysburg_portrait_8.jpg
   - name: gettysburg_portrait_9.jpg
   - name: gettysburg_portrait_10.jpg
+  - name: gettysburg_portrait_11.jpg
 
 ---
