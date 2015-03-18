@@ -6,4 +6,3 @@ keywords: photography, Gettysburg, Pennsylvania, portraits, family, children, ki
 images:
   - name: gettysburg_portrait_1.jpg
 ---
-3 Boys Photography is a portrait photography business located in Gettysburg, Pennsylvania that specializes in family and children's portraits.
